@@ -1,4 +1,4 @@
 *.db
 *.log
-цель/
+target/
 bin/
